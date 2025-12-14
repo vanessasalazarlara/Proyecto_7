@@ -9,7 +9,7 @@ La aplicación incluye herramientas de interacción que permiten al usuario gene
 -Un gráfico de dispersión que muestra la relación entre el kilometraje y el precio de los automóviles.
 
 ## Herramientas utilizadas
-- Python
+- python
 - streamlit
 - pandas
 - plotly
